@@ -1,0 +1,1 @@
+<?php echo get_the_term_list( $post->ID, 'taxonimies', 'Taxonomy Label: ', ', ', '' ); ?>

@@ -1,0 +1,11 @@
+Admin
+============================
+Username : codeline-wp.com
+Password : codeline-wp.com
+
+
+Database
+================================
+Database : codeline-wp
+Username : root
+Password : 
